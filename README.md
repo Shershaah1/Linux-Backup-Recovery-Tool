@@ -1,3 +1,5 @@
+![Linux](https://img.shields.io/badge/Linux-Bash-blue)
+![Version](https://img.shields.io/badge/version-v0.1-green)
 # 🐧 Linux Backup & Recovery Tool
 
 A Bash-based Linux Backup & Recovery Automation Tool designed for system administrators and DevOps beginners to automate backup and restore operations using shell scripting and cron scheduling.
@@ -65,7 +67,7 @@ chmod +x backup_tool.sh
 ```
 ### 2️⃣ Run Tool
 ```
-./backup_tool.sh
+./scripts/backup_tool.sh
 ```
 📸 Sample Output
 ### Main Interface
