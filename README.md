@@ -40,10 +40,18 @@ This project is created as part of hands-on Linux & DevOps skill development.
 
 ## 📦 Project Structure
 ```
-Linux-Backup-Recovery-Tool/
+linux-backup-recovery-tool/
 │
-├── backup_tool.sh
-└── README.md
+├── scripts/
+│   └── backup_tool.sh
+│
+├── screenshots/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+└── Releases (v0.1)
 ```
 
 
@@ -59,6 +67,18 @@ chmod +x backup_tool.sh
 ```
 ./backup_tool.sh
 ```
+📸 Sample Output
+### Main Interface
+![Main Menu](screenshots/main_menu.png)
+
+### Backup Execution
+![Backup](screenshots/backup_execution.png)
+
+### Recovery Execution
+![Recovery](screenshots/recovery_execution.png)
+
+### Error Handling
+![Error](screenshots/error_handling.png)
 ---
 
 🔄 Version
