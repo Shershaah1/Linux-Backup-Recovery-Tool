@@ -101,7 +101,11 @@ Email notification support
 Incremental backups
 
 ---
+## 📌 Use Case
 
+This tool simulates real-world Linux system administration tasks such as automated backups and disaster recovery used in production environments.
+
+---
 
 👨‍💻 Author
 
