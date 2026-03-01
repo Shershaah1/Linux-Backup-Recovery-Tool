@@ -78,7 +78,7 @@ chmod +x backup_tool.sh
 ![Recovery](screenshots/recovery_execution.png)
 
 ### Error Handling
-![Error](screenshots/error_handling.png)
+![Error](screenshots/invalid_directory_error.png)
 ---
 
 🔄 Version
