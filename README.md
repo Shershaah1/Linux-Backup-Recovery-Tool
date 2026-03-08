@@ -122,7 +122,7 @@ This tool simulates real-world Linux system administration tasks such as automat
 ![Tool Interface](screenshots/tool_interface_v02.png)
 
 ### Invalid Destination/Path Alert
-![Handling Invalid Path](screenshots/invalid_restore_location_v02.png)
+![Handling Invalid Path](screenshots/invalid_destination_alert_v02.png)
 
 ### Default Backup Location
 ![Default Path Selection](screenshots/default_backup_location_v02.png)
