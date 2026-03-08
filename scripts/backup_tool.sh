@@ -4,7 +4,7 @@ clear
 
 line() {
 echo "=========================================="
-}
+} 
 
 line
 echo "🐧  Linux Backup & Recovery Tool v0.1 ♻️"
