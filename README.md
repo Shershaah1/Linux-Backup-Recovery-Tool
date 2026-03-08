@@ -108,6 +108,15 @@ Incremental backups
 This tool simulates real-world Linux system administration tasks such as automated backups and disaster recovery used in production environments.
 
 ---
+## 🚀 Version v0.2 Updates
+
+- Added logging system
+- Improved validation for source and destination paths
+- Automatic fallback backup location
+- Timestamp-based backup naming
+- Support for backing up both files and directories
+
+---
 
 👨‍💻 Author
 
